@@ -100,19 +100,19 @@ nav .fa {
 
 /* course  */
 
-.course {
+.container {
   width: 80%;
   margin: auto;
   text-align: center;
-  padding-top: 100px;
+  padding-top: 80px;
 }
 
-.course h2 {
+.container h2 {
   font-size: 36px;
   font-weight: 600;
 }
 
-.course p {
+.container p {
   color: #777;
   font-size: 14px;
   font-weight: 300;
@@ -148,26 +148,6 @@ nav .fa {
 }
 
 /* campus */
-
-.campus {
-  width: 80%;
-  margin: auto;
-  text-align: center;
-  padding-top: 50px;
-}
-
-.campus h2 {
-  font-size: 36px;
-  font-weight: 600;
-}
-
-.campus p {
-  color: #777;
-  font-size: 14px;
-  font-weight: 300;
-  line-height: 22px;
-  padding: 10px;
-}
 
 .campus_col {
   flex-basis: 32%;
@@ -217,26 +197,6 @@ nav .fa {
 
 /* facilities */
 
-.facilities {
-  width: 80%;
-  margin: auto;
-  text-align: center;
-  padding-top: 100px;
-}
-
-.facilities h2 {
-  font-size: 36px;
-  font-weight: 600;
-}
-
-.facilities p {
-  color: #777;
-  font-size: 14px;
-  font-weight: 300;
-  line-height: 22px;
-  padding: 10px;
-}
-
 .facilities_col {
   flex-basis: 31%;
   border-radius: 10px;
@@ -258,26 +218,6 @@ nav .fa {
 }
 
 /* testimonials */
-
-.testimonials {
-  width: 80%;
-  margin: auto;
-  text-align: center;
-  padding-top: 100px;
-}
-
-.testimonials h2 {
-  font-size: 36px;
-  font-weight: 600;
-}
-
-.testimonials p {
-  color: #777;
-  font-size: 14px;
-  font-weight: 300;
-  line-height: 22px;
-  padding: 10px;
-}
 
 .testimonials_col {
   flex-basis: 44%;
@@ -591,8 +531,6 @@ nav .fa {
     font-size: 22px;
     cursor: pointer;
   }
-
-  /* course  */
 
   .row {
     flex-direction: column;
