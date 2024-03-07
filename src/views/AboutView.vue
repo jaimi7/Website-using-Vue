@@ -1,5 +1,9 @@
+<script setup lang="ts">
+import SubHeaderMenu from "@components/SubHeaderMenu.vue"
+</script>
+
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div>
+    <SubHeaderMenu heading="About Us" />
   </div>
 </template>

@@ -1,5 +1,9 @@
+<script setup lang="ts">
+import HeaderMenu from "@components/HeaderMenu.vue"
+</script>
+
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div>
+    <HeaderMenu />
   </div>
 </template>
