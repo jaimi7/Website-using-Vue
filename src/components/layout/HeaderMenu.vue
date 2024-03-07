@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import NavigationMenu from "@components/NavigationMenu.vue"
+import NavigationMenu from "@components/layout/NavigationMenu.vue"
 </script>
 
 <template>
